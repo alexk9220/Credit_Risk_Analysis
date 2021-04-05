@@ -11,6 +11,8 @@ In order to solve a credit card risk problem I have tested 6 machine learning mo
    <img width="203" alt="Accuarcy Score Random Ov" src="https://user-images.githubusercontent.com/73204192/113471228-1c0b3a80-9429-11eb-8094-fd40324b951f.png">
 
 
+
+
 *  ### SMOTE Oversampling
 <img width="729" alt="SMOTE Oversampling" src="https://user-images.githubusercontent.com/73204192/113471239-334a2800-9429-11eb-8f14-fbea56dec4b8.png">
 
@@ -26,6 +28,8 @@ In order to solve a credit card risk problem I have tested 6 machine learning mo
 
    <img width="167" alt="Accuarcy Score Undersampling" src="https://user-images.githubusercontent.com/73204192/113471288-72787900-9429-11eb-955b-45aba1e163f7.png">
 
+
+
 * ### Combination 
 <img width="737" alt="Combination" src="https://user-images.githubusercontent.com/73204192/113471307-8ae89380-9429-11eb-9463-d21986481171.png">
 
@@ -34,12 +38,14 @@ In order to solve a credit card risk problem I have tested 6 machine learning mo
    <img width="164" alt="Accuracy score combination " src="https://user-images.githubusercontent.com/73204192/113471320-96d45580-9429-11eb-96ad-249df6e13d87.png">
 
 
+
 * ### Ramdom Forest Classifier 
 <img width="719" alt="Random Forest" src="https://user-images.githubusercontent.com/73204192/113471342-b9ff0500-9429-11eb-9cef-2333c1eafade.png">
 
    #### balanced accuracy score
 
    <img width="171" alt="Acc score Random forest Classifier" src="https://user-images.githubusercontent.com/73204192/113471353-c5523080-9429-11eb-9631-3543e009e6a5.png">
+
 
 
 * ### Easy Ensemble 
