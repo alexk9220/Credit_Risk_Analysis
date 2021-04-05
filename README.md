@@ -53,4 +53,4 @@ In order to solve a credit card risk problem I have tested 6 machine learning mo
 
 
 ## Summary
-Having used 6 different machine learning models it's clear that they are not equally effective - some are fairly bad while others are better at accessing credit risks. Out of all 6 models I would recommend to use the ### Easy Ensemble model - the last one we tested. Not only is its balanced accuracy score the highest, but also the precision and recall scores are the highest out of all models tested. 
+Having used 6 different machine learning models it's clear that they are not equally effective - some are fairly bad while others are better at accessing credit risks. Out of all 6 models I would recommend to use the Easy Ensemble model - the last one we tested. Not only is its balanced accuracy score the highest, but also the precision and recall scores are the highest out of all models tested. 
